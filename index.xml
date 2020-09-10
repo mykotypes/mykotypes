@@ -1,36 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello Friend</title>
+    <title>Mykotypes</title>
     
     
     
     <link>/</link>
-    <description>Recent content on Hello Friend</description>
+    <description>Recent content on Mykotypes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Sep 1986 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      <title>Hello Friend, first words</title>
+      <link>/posts/hello/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>/posts/hello/</guid>
       <description>
         
-          
-          
+          &lt;img src=&#34;/img/typewritter-and-camera.jpg&#34;/&gt;
           
         
         
         
-          Hi there My name is Radek and I&amp;rsquo;m the author of this theme. I made it to help you present your ideas easier.
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
-This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
+          &#34;Hello, friend?&#34; That&#39;s lame. Maybe I should give you a name?
           
         
         </description>
@@ -39,7 +36,7 @@ This theme is pretty basic and covers all of the essentials. All you have to do 
     <item>
       <title>Showcase</title>
       <link>/showcase/</link>
-      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 18 Jan 1919 00:00:00 +0000</pubDate>
       
       <guid>/showcase/</guid>
       <description>
@@ -57,19 +54,21 @@ This theme is pretty basic and covers all of the essentials. All you have to do 
     </item>
     
     <item>
-      <title>Hello Friend</title>
-      <link>/post/hello/</link>
-      <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 21 Mar 1768 00:00:00 +0000</pubDate>
       
-      <guid>/post/hello/</guid>
+      <guid>/about/</guid>
       <description>
         
-          &lt;img src=&#34;/img/hello.jpg&#34;/&gt;
+          
+          
           
         
         
         
-          &#34;Hello, friend?&#34; That&#39;s lame. Maybe I should give you a name?
+          Hi there My name is Mykolas. I&amp;rsquo;m a web developer and designer, typewriter, professional napper and doodler.
+This blogging space is not limited or concentrated on specific subject or matter. Typing or my name has little to do the with me, but I like the fact of having some meta meaning to things:) If there&amp;rsquo;s interest of any kind, don&amp;rsquo;t hesitate to contact me.
           
         
         </description>
